@@ -6,6 +6,8 @@ in an interactive force-directed graph.
 
 **🌐 Live site: https://mvbloois.github.io/novel-character-map/**
 
+![Screenshot of Novel Character Map showing the character list and a relationship graph](docs/screenshot.png)
+
 ## Features
 
 - Add / edit / delete characters (name, role, group)
