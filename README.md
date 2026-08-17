@@ -4,6 +4,8 @@ A small web app to visualize the characters in a novel you're reading and how
 they relate to each other. Characters are nodes; relationships are labeled edges
 in an interactive force-directed graph.
 
+**🌐 Live site: https://mvbloois.github.io/novel-character-map/**
+
 ## Features
 
 - Add / edit / delete characters (name, role, group)
